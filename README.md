@@ -1,5 +1,5 @@
 
-### Olá!eu sou Boris Zaidan🖐️ 
+### Olá! eu sou Boris Zaidan🖐️ 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bzmgs31/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bzmgs31/)
