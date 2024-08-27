@@ -1,5 +1,5 @@
 
-## Olá! eu sou Boris Zaidan!
+# Olá! eu sou Boris Zaidan!
 ### Bem vindo ao meu perfil GitHub 👋
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bzmgs31/)
